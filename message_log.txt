@@ -19,3 +19,4 @@
 2024-07-04 16:15:48	You have received deposit from iBanking of Tk 300.00 from Bank Asia Internet Banking. Fee Tk 0.00. Balance Tk 334.48. TrxID BFD89KZ9KU at 13/06/2024 21:39
 2024-07-04 16:17:18	You have received Tk 1.00 from 01793241773. Fee Tk 0.00. Balance Tk 58.76. TrxID BG43SHW4X9 at 04/07/2024 16:17
 2024-07-04 17:00:22	You have received Tk 1.00 from 01793241773. Fee Tk 0.00. Balance Tk 59.76. TrxID BG46SJB2B0 at 04/07/2024 17:00
+2024-07-04 17:11:07	You have received Tk 0.11 from 01864910330. Fee Tk 0.00. Balance Tk 59.87. TrxID BG44SJP0LQ at 04/07/2024 17:10
