@@ -1,0 +1,20 @@
+2024-07-04 16:15:26	You have received deposit from iBanking of Tk 300.00 from Bank Asia Internet Banking. Fee Tk 0.00. Balance Tk 334.48. TrxID BFD89KZ9KU at 13/06/2024 21:39
+2024-07-04 16:15:26	You have received Tk 410.00 from 01616895145. Fee Tk 0.00. Balance Tk 429.48. TrxID BFF3BMSAS9 at 15/06/2024 20:05
+2024-07-04 16:15:26	You have received Tk 2,500.00 from 01830299979. Fee Tk 0.00. Balance Tk 2,522.08. TrxID BFG4CDG58K at 16/06/2024 14:41
+2024-07-04 16:15:26	You have received deposit from iBanking of Tk 1,000.00 from Bank Asia Internet Banking. Fee Tk 0.00. Balance Tk 1,017.08. TrxID BFH8D69ETW at 17/06/2024 08:33
+2024-07-04 16:15:26	You have received deposit from iBanking of Tk 310.00 from Bank Asia Internet Banking. Fee Tk 0.00. Balance Tk 512.08. TrxID BFK3FQBICV at 20/06/2024 20:42
+2024-07-04 16:15:26	You have received Tk 5,000.00 from 01889225387. Fee Tk 0.00. Balance Tk 5,002.83. TrxID BFK6FTYYRC at 20/06/2024 22:46
+2024-07-04 16:15:26	You have received Tk 5,000.00 from 01889225387. Fee Tk 0.00. Balance Tk 10,002.83. TrxID BFK3FUECPR at 20/06/2024 23:08
+2024-07-04 16:15:26	You have received deposit from iBanking of Tk 1,000.00 from Bank Asia Internet Banking. Fee Tk 0.00. Balance Tk 1,051.83. TrxID BFL3G4ZWB5 at 21/06/2024 13:46
+2024-07-04 16:15:26	You have received deposit from iBanking of Tk 530.00 from Bank Asia Internet Banking. Fee Tk 0.00. Balance Tk 541.83. TrxID BFL5GL2LZ5 at 21/06/2024 23:09
+2024-07-04 16:15:26	You have received Tk 500.00 from 01537345408. Fee Tk 0.00. Balance Tk 583.83. TrxID BFN4HFS6YO at 23/06/2024 00:21
+2024-07-04 16:15:26	You have received Tk 500.00 from 01849414847. Fee Tk 0.00. Balance Tk 503.83. TrxID BFN7HFYTST at 23/06/2024 00:38
+2024-07-04 16:15:26	You have received Tk 1,000.00 from 01828004746. Fee Tk 0.00. Balance Tk 1,003.83. TrxID BFN3HZ305D at 23/06/2024 17:25
+2024-07-04 16:15:26	You have received deposit from iBanking of Tk 1,000.00 from Islami Bank. Fee Tk 0.00. Balance Tk 1,003.83. TrxID BFP4JUDUSO at 25/06/2024 16:08
+2024-07-04 16:15:26	You have received Tk 500.00 from 01849414847. Fee Tk 0.00. Balance Tk 535.51. TrxID BFR3LG9ZWF at 27/06/2024 10:20
+2024-07-04 16:15:26	Cash In Tk 510.00 from 01709822422 successful. Fee Tk 0.00. Balance Tk 536.26. TrxID BFT7NIWFLD at 29/06/2024 13:38. Download App: https://bKa.sh/8app
+2024-07-04 16:15:26	You have received Tk 1,000.00 from 01840226789. Fee Tk 0.00. Balance Tk 1,027.01. TrxID BFT3NK8D13 at 29/06/2024 14:25
+2024-07-04 16:15:26	You have received Tk 510.00 from 01616895145. Fee Tk 0.00. Balance Tk 517.01. TrxID BFT3NXPURZ at 29/06/2024 20:31
+2024-07-04 16:15:26	You have received Tk 500.00 from 01793241773. Fee Tk 0.00. Balance Tk 507.76. TrxID BG39RCPQFJ at 03/07/2024 12:26
+2024-07-04 16:15:48	You have received deposit from iBanking of Tk 300.00 from Bank Asia Internet Banking. Fee Tk 0.00. Balance Tk 334.48. TrxID BFD89KZ9KU at 13/06/2024 21:39
+2024-07-04 16:17:18	You have received Tk 1.00 from 01793241773. Fee Tk 0.00. Balance Tk 58.76. TrxID BG43SHW4X9 at 04/07/2024 16:17
